@@ -1,0 +1,15 @@
+All documentation found in this repository is owned by the respective companies
+and it is their intellectual property.
+
+I merely use these as a resource to study about the processor.
+
+These documents are distributed under their own licenses and if you use them, 
+you do so abiding by those terms.
+
+These documents have been obtained from the following sources:
+processor-custom-instruction.pdf = https://cdrdv2-public.intel.com/666927/ug_nios2_custom_instruction-683242-666927.pdf
+processor-ref-handbook.pdf = https://www.cs.columbia.edu/~sedwards/classes/2007/4840/n2cpu_nii5v1.pdf
+processor-ref-guide.pdf  = https://cdrdv2-public.intel.com/666887/n2cpu-nii5v1gen2-683836-666887.pdf
+
+Once again, to clarify, THESE DOCUMENTS DO NOT BELONG TO ME AND ARE
+THE INTELLECTUAL PROPERTY OF THEIR OWNERS [Intel(https://www.intel.com/) and Altera respectively]
